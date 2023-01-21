@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/YoussefSouissi1994/configuration-repository.git
+          username: YoussefSouissi1994
+          password: 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
+          searchPaths:
+            - '{application}/{profile}'
+            - '{application}/comon'
+            - 'comon/{profile}'
+            - 'comon/comon'
+          force-pull: true
+          clone-on-start: true
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 8888

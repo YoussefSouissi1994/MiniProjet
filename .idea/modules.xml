@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MiniProjet.iml" filepath="$PROJECT_DIR$/.idea/MiniProjet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/administration/administration.iml" filepath="$PROJECT_DIR$/administration/administration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-seervice/client-seervice.iml" filepath="$PROJECT_DIR$/client-seervice/client-seervice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-seervice/modules/core-models/core-models.iml" filepath="$PROJECT_DIR$/client-seervice/modules/core-models/core-models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facture-service/facture-service.iml" filepath="$PROJECT_DIR$/facture-service/facture-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produit-service/produit-service.iml" filepath="$PROJECT_DIR$/produit-service/produit-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reglement-service/reglement-service.iml" filepath="$PROJECT_DIR$/reglement-service/reglement-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-service/stock-service.iml" filepath="$PROJECT_DIR$/stock-service/stock-service.iml" />
+    </modules>
+  </component>
+</project>

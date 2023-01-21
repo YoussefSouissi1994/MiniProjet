@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-seervice" />
+        <module name="reglement-service" />
+        <module name="stock-service" />
+        <module name="config-server" />
+        <module name="core-models" />
+        <module name="administration" />
+        <module name="facture-service" />
+        <module name="produit-service" />
+        <module name="api-gateway" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="administration" target="1.8" />
+      <module name="api-gateway" target="1.8" />
+      <module name="client-seervice" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="core-models" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="facture-service" target="1.8" />
+      <module name="produit-service" target="1.8" />
+      <module name="reglement-service" target="1.8" />
+      <module name="stock-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="administration" options="-parameters" />
+      <module name="api-gateway" options="-parameters" />
+      <module name="client-seervice" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="core-models" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="facture-service" options="-parameters" />
+      <module name="produit-service" options="-parameters" />
+      <module name="reglement-service" options="-parameters" />
+      <module name="stock-service" options="-parameters" />
+    </option>
+  </component>
+</project>

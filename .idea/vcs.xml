@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/administration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client-seervice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client-seervice/modules/core-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configuration-repository" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configuration-repository/facture-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facture-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facture-service/modules/core-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/produit-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/produit-service/modules/core-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reglement-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reglement-service/modules/core-models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock-service/modules/core-models" vcs="Git" />
+  </component>
+</project>
